@@ -4,6 +4,7 @@
   "description": "Authentication, Authorization, and Input Validation",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsup"
   },

@@ -1,0 +1,5 @@
+/package/src
+/package/node_modules
+
+/package/tsconfig.json
+/package/tsup.config.ts
