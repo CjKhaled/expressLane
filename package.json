@@ -1,5 +1,5 @@
 {
-  "name": "express-lane",
+  "name": "xpress-lane",
   "version": "1.0.0",
   "description": "Authentication, Authorization, and Input Validation",
   "main": "./dist/index.js",
